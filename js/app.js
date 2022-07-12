@@ -2,9 +2,9 @@
 let name = "testName" , age = 35 , Name = "JavaScript" , NAME = "casesent";
 let $if = 10 , _for = "susu I kak"; // ตัวแปร คำสงวน
 
-console.log(name);
-console.log(Name);
-console.log(NAME);
+// console.log(name);
+// console.log(Name);
+// console.log(NAME);
 
 // const vat = 0.07;
 // console.log("Before = ", vat);
@@ -13,25 +13,25 @@ console.log(NAME);
 // console.log("After = " , vat);
 
 
-console.log("Before = ", $if);
+// console.log("Before = ", $if);
 
-$if = "change";
-console.log("After = " , $if);
+// $if = "change";
+// console.log("After = " , $if);
 
-document.write(typeof(name));
-console.log("age =", age);
+// document.write(typeof(name));
+// console.log("age =", age);
 
-let checkname = false;
-let checkproduct = true;
-let ayu = "20" + 10;
-let ayu2 = 20 + 10;
+// let checkname = false;
+// let checkproduct = true;
+// let ayu = "20" + 10;
+// let ayu2 = 20 + 10;
 
 
-console.log(checkname);
-console.log(checkproduct);
-console.log(typeof(checkproduct));
-console.log(ayu);
-console.log(ayu2);
+// console.log(checkname);
+// console.log(checkproduct);
+// console.log(typeof(checkproduct));
+// console.log(ayu);
+// console.log(ayu2);
 
 
 // document.write("hello world");
