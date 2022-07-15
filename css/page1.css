@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+html , body {
+    margin: 0;
+    padding: 0;
+    background-color: #1001e9;
+    color: #fc0000;
+}
+
+header {
+    font-size: 1em;
+}
+
+div {
+
+    /* background-color: #d6e813; */
+    background-image: url("/images/Screen\ Shot\ 2565-07-16\ at\ 01.07.17.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
