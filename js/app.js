@@ -1,6 +1,6 @@
 
-let name = "testName" , age = 35 , Name = "JavaScript" , NAME = "casesent";
-let $if = 10 , _for = "susu I kak"; // ตัวแปร คำสงวน
+// let name = "testName" , age = 35 , Name = "JavaScript" , NAME = "casesent";
+// let $if = 10 , _for = "susu I kak"; // ตัวแปร คำสงวน
 
 // console.log(name);
 // console.log(Name);

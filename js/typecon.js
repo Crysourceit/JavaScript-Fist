@@ -1,10 +1,10 @@
-let age2 = 20;
-let age3 = "20.5";
-let age4 = parseInt("20.25");
-let age5 = parseFloat("20.25");
-let age6 = +"20.5";
-let age7 = 20 + "";
-let age8 = 20.0.toString();
+// let age2 = 20;
+// let age3 = "20.5";
+// let age4 = parseInt("20.25");
+// let age5 = parseFloat("20.25");
+// let age6 = +"20.5";
+// let age7 = 20 + "";
+// let age8 = 20.0.toString();
 
 // console.log(typeof(age2));
 // console.log(typeof(age3));
