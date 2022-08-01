@@ -14,8 +14,21 @@ header {
 div {
 
     /* background-color: #d6e813; */
-    background-image: url("/images/Screen\ Shot\ 2565-07-16\ at\ 01.07.17.png");
+    display: flex;
+    background-image: url("/images/operlator_importand.png");
     background-size: contain;
     background-repeat: no-repeat;
     height: 100vh;
+}
+
+.loop {
+    
+    display: flex;
+    background-image: url("/images/loop_differ.png");
+    width: 100%;
+}
+
+.button {
+
+    display: block;
 }

@@ -1,18 +1,18 @@
 // Program clac 2
 
-let x = 100 , y = 100;
+// let x = 10 , y = 100;
 
-if (x > y) {
+// if (x > y) {
     
-    console.log("x is greater")
+//     console.log("x is greater")
     
-} else if (x < y) {
+// } else if (x < y) {
 
-    console.log("y is greater")
-} else {
+//     console.log("y is greater")
+// } else {
 
-    console.log("It is equal")
-}
+//     console.log("It is equal")
+// }
 
 
 
