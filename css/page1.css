@@ -11,21 +11,19 @@ header {
     font-size: 1em;
 }
 
-div {
+img {
 
-    /* background-color: #d6e813; */
-    display: flex;
-    background-image: url("/images/operlator_importand.png");
-    background-size: contain;
-    background-repeat: no-repeat;
-    height: 100vh;
+    width: 100%;
+}
+
+.operator {
+
+    display: block;
 }
 
 .loop {
-    
-    display: flex;
-    background-image: url("/images/loop_differ.png");
-    width: 100%;
+
+    display: block;
 }
 
 .button {
