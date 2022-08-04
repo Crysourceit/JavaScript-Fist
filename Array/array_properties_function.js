@@ -1,25 +1,25 @@
-let colors = ["red", "green", "blue", "yellow"]
+// let colors = ["red", "green", "blue", "yellow"]
 
-// let count = colors.length;
+// // let count = colors.length;
 
-console.log("Before =", colors);
+// console.log("Before =", colors);
 
-// let result = colors.sort();
+// // let result = colors.sort();
 
-// console.log("After =", result);
+// // console.log("After =", result);
 
-// let result2 = colors.reverse();
+// // let result2 = colors.reverse();
 
-// console.log("Reverse =", result2);
+// // console.log("Reverse =", result2);
 
-// console.log(colors.sort());
-// console.log(colors.reverse());
-
-
-console.log(colors[2]); // Frist Index
-console.log(colors[colors.length-1]); // Last Index
+// // console.log(colors.sort());
+// // console.log(colors.reverse());
 
 
-colors.push("black");
-colors.push("orange");
-console.log(colors);
+// console.log(colors[2]); // Frist Index
+// console.log(colors[colors.length-1]); // Last Index
+
+
+// colors.push("black");
+// colors.push("orange");
+// console.log(colors);
